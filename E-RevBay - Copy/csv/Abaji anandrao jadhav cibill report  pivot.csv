@@ -1,0 +1,6 @@
+type,sanction_credit,balance,emi,paid_principle,delinquecy,foir,disposable
+1_CreditCard,60000,99927,4996,0,1,,
+2_BusinessLoan,516000,378738,0,137262,1,,
+3_PersonalLoan,1426,1426,1426,0,1,,
+4_Others,1800396,1682291,21226,137063,3,,
+Total,2377822,2162382,27648,274325,6,1260000,1232352
