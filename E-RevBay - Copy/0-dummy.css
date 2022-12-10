@@ -1,0 +1,65 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  text-align: center;
+}
+input[type=file] {
+  margin-bottom: 10px;
+}
+#demoTable {
+  border-collapse: collapse;
+}
+#demoTable tr:nth-child(1) {
+  background: #ff0000;
+  color: rgb(255, 255, 255);
+}
+#demoTable tr:nth-child(1) td:nth-child(1){
+  background: #ff0000;
+  color: rgb(255, 255, 255);
+}
+#demoTable td:nth-child(1) {
+  background: #343333;
+  color: rgb(255, 255, 255);
+}
+#demoTable td {
+  border: 5px solid #ddd;
+  padding: 10px;
+}
+#demoTable1 {
+  border-collapse: collapse;
+}
+
+#demoTable1 td:nth-child(1) {
+  background: #ff0000;
+  color: rgb(255, 255, 255);
+}
+#demoTable1 tr:nth-child(1) td:nth-child(1) {
+  background: #343333;
+  color: rgb(255, 255, 255);
+}
+#demoTable1 tr:nth-child(1) {
+  background: #343333;
+  color: rgb(255, 255, 255);
+}
+
+#demoTable1 tr:last-child td:nth-child(1) {
+  background: #bbbbbb;
+  color: rgb(0, 0, 0);
+}
+#demoTable1 tr:last-child {
+  background: #bbbbbb;
+  color: rgb(0, 0, 0);
+}
+
+
+#demoTable1 td {
+  border: 5px solid #ddd;
+  padding: 10px;
+}
+#disposible_table {
+  text-align: left;
+}
+#disposible_table td{
+  padding: 5px;
+  text-align: right;
+}
